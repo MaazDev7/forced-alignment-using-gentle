@@ -69,8 +69,9 @@ After that gentle will show a loading and then the output is shown in JSON forma
 
 After exploring multiple tools like:
 
-- WhisperX
-- Faster Whisper
+- **WhisperX**
+- **Faster Whisper**
+  
 I faced compatibility issues or inaccurate results. Gentle worked great, especially via Docker. I hope thissaves someone else hours of work! ⏱️
 
 ---
