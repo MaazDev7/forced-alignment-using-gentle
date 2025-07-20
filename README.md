@@ -71,7 +71,7 @@ After exploring multiple tools like:
 
 - WhisperX
 - Faster Whisper
-  I faced compatibility issues or inaccurate results. Gentle worked great, especially via Docker. I hope thissaves someone else hours of work! ⏱️
+I faced compatibility issues or inaccurate results. Gentle worked great, especially via Docker. I hope thissaves someone else hours of work! ⏱️
 
 ---
 
